@@ -1,0 +1,3 @@
+df["column"] → select one column
+
+df[["column1", "column2"]] → select multiple columns

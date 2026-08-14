@@ -1,0 +1,1 @@
+df.info() → gives an overview of the DataFrame, including columns, data types, and missing values

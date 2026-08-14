@@ -1,0 +1,1 @@
+df.shape → tells me the size of the DataFrame (rows, columns)
