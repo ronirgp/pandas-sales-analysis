@@ -1,0 +1,12 @@
+# Lesson 2 — Filtering Rows
+
+## Exercise 2.3.1 — Price Less Than 30
+
+### Business Question
+
+Show me all orders where the price is less than 30.
+
+### Solution
+
+```python
+df[df["price"] < 30]
