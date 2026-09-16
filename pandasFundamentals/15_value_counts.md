@@ -15,4 +15,5 @@ df["region"].value_counts()
 Send me your code.
 
 My solution 
+dfdf["product"].value_counts()
 
