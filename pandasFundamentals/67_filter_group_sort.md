@@ -16,4 +16,5 @@ Your turn: **filter → group → sum → sort.**
 
 My solution:
 
+
 df[df["quantity"] > 2].groupby("category")["price"].sum().sort_values(ascending=False)
